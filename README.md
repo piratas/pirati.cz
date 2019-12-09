@@ -1,6 +1,4 @@
-# pirati.cz
-
-[![Build Status](https://api.travis-ci.org/pirati-web/pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pirati.cz)
+# Fork da página ofical do Partido Pirata Checo pirati.cz
 
 ## Lokální spuštění
 
